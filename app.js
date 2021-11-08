@@ -18,3 +18,9 @@ function createPokeCard(pokemon){
     <h3 class="name">${pokemon.data.name.toUpperCase()}</h3>
     `;
 }
+
+// 
+// 
+async function getPokemonData(id){
+    
+}
